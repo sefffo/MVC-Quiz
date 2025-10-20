@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Quiz PL/Quiz PL.csproj" />
+  <Project Path="Quiz.BLL/Quiz.BLL.csproj" />
+  <Project Path="Quiz.DAL/Quiz.DAL.csproj" />
+</Solution>
